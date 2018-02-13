@@ -12,6 +12,7 @@ workflow-step-api:2.14
 script-security:1.41
 workflow-support:2.18
 workflow-durable-task-step:2.18
+junit:1.24
 
 # Jenkins JVM / Application monitoring
 monitoring:1.70.0
