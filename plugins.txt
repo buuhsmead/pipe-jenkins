@@ -8,6 +8,7 @@ credentials-binding:1.15
 credentials:2.1.16
 ssh-credentials:1.13
 workflow-step-api:2.14
+workflow-durable-task-step:2.18
 script-security:1.41
 workflow-support:2.18
 workflow-durable-task-step:2.18
