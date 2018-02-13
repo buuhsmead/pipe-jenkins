@@ -65,7 +65,7 @@ parameters:
   displayName: Git Repository URL
   name: SOURCE_REPOSITORY_URL
   required: true
-  value: https://github.com/RHsyseng/jenkins-on-openshift.git
+  value: https://github.com/buuhsmead/pipe-jenkins
 - description: Set this to a branch name, tag or other ref of your repository if you
     are not using the default branch.
   displayName: Git Reference
@@ -75,7 +75,7 @@ parameters:
     of your repository.
   displayName: Context Directory
   name: CONTEXT_DIR
-  value: jenkins
+  value: 
 - description: Github trigger secret.  A difficult to guess string encoded as part
     of the webhook URL.  Not encrypted.
   displayName: GitHub Webhook Secret
